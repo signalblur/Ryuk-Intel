@@ -16,3 +16,5 @@ I thought having a list of all of the recently released intel reports related to
 [Sigma Rule - Win_Malware_Ryuk](https://github.com/Neo23x0/sigma/blob/cf22e9e576e8bfd92e74693dc53fe101b9bb0af1/rules/windows/malware/win_mal_ryuk.yml)
 
 [Raccine - Simple Ransomware Protection](https://github.com/Neo23x0/Raccine)
+
+[ThreatConnect Research Roundup: Possible Ryuk Infrastructure](https://threatconnect.com/blog/threatconnect-research-roundup-possible-ryuk-infrastructure/)
