@@ -25,6 +25,8 @@ I thought having a list of all of the recently released intel reports related to
 
 [MISP Feed Details](https://twitter.com/MISPProject/status/1322096761490595840)
 
+[The DFIR Report - Ryuk in 5 hours](https://thedfirreport.com/2020/10/18/ryuk-in-5-hours/)
+
 ## Detection Logic and Tools
 
 [Sigma Rule - Win_Mal_Ryuk](https://github.com/Neo23x0/sigma/blob/de5444a81e770ec730aa5e3af69781ab222f021a/rules/windows/process_creation/win_malware_ryuk.yml)
