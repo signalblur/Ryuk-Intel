@@ -23,6 +23,8 @@ I thought having a list of all of the recently released intel reports related to
 
 [Ryuk Ransomware: A Targeted Campaign Break-Down (2018)](https://research.checkpoint.com/2018/ryuk-ransomware-targeted-campaign-break/)
 
+[MISP Feed Details](https://twitter.com/MISPProject/status/1322096761490595840)
+
 ## Detection Logic and Tools
 
 [Sigma Rule - Win_Mal_Ryuk](https://github.com/Neo23x0/sigma/blob/de5444a81e770ec730aa5e3af69781ab222f021a/rules/windows/process_creation/win_malware_ryuk.yml)
