@@ -18,3 +18,5 @@ I thought having a list of all of the recently released intel reports related to
 [Raccine - Simple Ransomware Protection](https://github.com/Neo23x0/Raccine)
 
 [ThreatConnect Research Roundup: Possible Ryuk Infrastructure](https://threatconnect.com/blog/threatconnect-research-roundup-possible-ryuk-infrastructure/)
+
+[https://community.riskiq.com/article/0bcefe76](https://community.riskiq.com/article/0bcefe76)
