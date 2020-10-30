@@ -13,7 +13,7 @@ I thought having a list of all of the recently released intel reports related to
 
 [ThreatConnect Research Roundup: Possible Ryuk Infrastructure](https://threatconnect.com/blog/threatconnect-research-roundup-possible-ryuk-infrastructure/)
 
-[Ryuk Ransomware: Extensive Attack Infrastructure Revealed](https://community.riskiq.com/article/0bcefe76)
+[RiskIQ - Ryuk Ransomware: Extensive Attack Infrastructure Revealed](https://community.riskiq.com/article/0bcefe76)
 
 [SEKOIA-IO Community IOC's](https://github.com/SEKOIA-IO/Community/blob/main/IOCs/2020-10-29%20C2%20Ryuk.csv)
 
